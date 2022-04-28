@@ -1,0 +1,14 @@
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\bin\Debug\netcoreapp3.1\T3FigurasGeometricas.exe
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\bin\Debug\netcoreapp3.1\T3FigurasGeometricas.deps.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\bin\Debug\netcoreapp3.1\T3FigurasGeometricas.runtimeconfig.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\bin\Debug\netcoreapp3.1\T3FigurasGeometricas.runtimeconfig.dev.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\bin\Debug\netcoreapp3.1\T3FigurasGeometricas.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\bin\Debug\netcoreapp3.1\T3FigurasGeometricas.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\obj\Debug\netcoreapp3.1\T3FigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\obj\Debug\netcoreapp3.1\T3FigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\obj\Debug\netcoreapp3.1\T3FigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\obj\Debug\netcoreapp3.1\T3FigurasGeometricas.AssemblyInfo.cs
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\obj\Debug\netcoreapp3.1\T3FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\obj\Debug\netcoreapp3.1\T3FigurasGeometricas.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\obj\Debug\netcoreapp3.1\T3FigurasGeometricas.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T3FigurasGeometricas\obj\Debug\netcoreapp3.1\T3FigurasGeometricas.genruntimeconfig.cache
