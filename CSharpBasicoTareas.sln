@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBasicoTareas", "CSharpBasicoTareas\CSharpBasicoTareas.csproj", "{ED518B0E-31CB-4536-A855-AA5578D12E4E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1TiposDeDatos", "T1TiposDeDatos\T1TiposDeDatos.csproj", "{2C546A9D-D521-48BE-8588-7C8C6BD57580}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T1TiposDeDatos", "T1TiposDeDatos\T1TiposDeDatos.csproj", "{2C546A9D-D521-48BE-8588-7C8C6BD57580}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "22-4", "22-4", "{7D255752-E9AF-4F7F-91DC-67299CDF8637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T3FigurasGeometricas", "T3FigurasGeometricas\T3FigurasGeometricas.csproj", "{44BBA4B0-092C-4065-B069-F78ADFAE6379}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T3FigurasGeometricas", "T3FigurasGeometricas\T3FigurasGeometricas.csproj", "{44BBA4B0-092C-4065-B069-F78ADFAE6379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2HIstoria", "T2HIstoria\T2HIstoria.csproj", "{8BB83741-60D7-44EA-BCEB-71D6F45CC4CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ED518B0E-31CB-4536-A855-AA5578D12E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ED518B0E-31CB-4536-A855-AA5578D12E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ED518B0E-31CB-4536-A855-AA5578D12E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ED518B0E-31CB-4536-A855-AA5578D12E4E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2C546A9D-D521-48BE-8588-7C8C6BD57580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2C546A9D-D521-48BE-8588-7C8C6BD57580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C546A9D-D521-48BE-8588-7C8C6BD57580}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,6 +25,10 @@ Global
 		{44BBA4B0-092C-4065-B069-F78ADFAE6379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44BBA4B0-092C-4065-B069-F78ADFAE6379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44BBA4B0-092C-4065-B069-F78ADFAE6379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB83741-60D7-44EA-BCEB-71D6F45CC4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB83741-60D7-44EA-BCEB-71D6F45CC4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB83741-60D7-44EA-BCEB-71D6F45CC4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB83741-60D7-44EA-BCEB-71D6F45CC4CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2C546A9D-D521-48BE-8588-7C8C6BD57580} = {7D255752-E9AF-4F7F-91DC-67299CDF8637}
 		{44BBA4B0-092C-4065-B069-F78ADFAE6379} = {7D255752-E9AF-4F7F-91DC-67299CDF8637}
+		{8BB83741-60D7-44EA-BCEB-71D6F45CC4CA} = {7D255752-E9AF-4F7F-91DC-67299CDF8637}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8B14772-552C-411D-8372-623CF4451F77}

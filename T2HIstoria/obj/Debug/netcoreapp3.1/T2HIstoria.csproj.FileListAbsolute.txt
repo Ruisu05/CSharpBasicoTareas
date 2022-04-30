@@ -1,0 +1,14 @@
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\obj\Debug\netcoreapp3.1\T2HIstoria.csproj.AssemblyReference.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\obj\Debug\netcoreapp3.1\T2HIstoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\obj\Debug\netcoreapp3.1\T2HIstoria.AssemblyInfoInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\obj\Debug\netcoreapp3.1\T2HIstoria.AssemblyInfo.cs
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\obj\Debug\netcoreapp3.1\T2HIstoria.csproj.CoreCompileInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\bin\Debug\netcoreapp3.1\T2HIstoria.exe
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\bin\Debug\netcoreapp3.1\T2HIstoria.deps.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\bin\Debug\netcoreapp3.1\T2HIstoria.runtimeconfig.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\bin\Debug\netcoreapp3.1\T2HIstoria.runtimeconfig.dev.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\bin\Debug\netcoreapp3.1\T2HIstoria.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\bin\Debug\netcoreapp3.1\T2HIstoria.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\obj\Debug\netcoreapp3.1\T2HIstoria.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\obj\Debug\netcoreapp3.1\T2HIstoria.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T2HIstoria\obj\Debug\netcoreapp3.1\T2HIstoria.genruntimeconfig.cache
