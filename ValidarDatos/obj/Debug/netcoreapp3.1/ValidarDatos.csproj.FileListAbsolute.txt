@@ -1,0 +1,14 @@
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\bin\Debug\netcoreapp3.1\ValidarDatos.exe
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\bin\Debug\netcoreapp3.1\ValidarDatos.deps.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\bin\Debug\netcoreapp3.1\ValidarDatos.runtimeconfig.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\bin\Debug\netcoreapp3.1\ValidarDatos.runtimeconfig.dev.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\bin\Debug\netcoreapp3.1\ValidarDatos.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\bin\Debug\netcoreapp3.1\ValidarDatos.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\obj\Debug\netcoreapp3.1\ValidarDatos.csproj.AssemblyReference.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\obj\Debug\netcoreapp3.1\ValidarDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\obj\Debug\netcoreapp3.1\ValidarDatos.AssemblyInfoInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\obj\Debug\netcoreapp3.1\ValidarDatos.AssemblyInfo.cs
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\obj\Debug\netcoreapp3.1\ValidarDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\obj\Debug\netcoreapp3.1\ValidarDatos.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\obj\Debug\netcoreapp3.1\ValidarDatos.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\ValidarDatos\obj\Debug\netcoreapp3.1\ValidarDatos.genruntimeconfig.cache

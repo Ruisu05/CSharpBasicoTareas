@@ -1,0 +1,14 @@
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\bin\Debug\netcoreapp3.1\MenuCalculosGeometricos.exe
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\bin\Debug\netcoreapp3.1\MenuCalculosGeometricos.deps.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\bin\Debug\netcoreapp3.1\MenuCalculosGeometricos.runtimeconfig.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\bin\Debug\netcoreapp3.1\MenuCalculosGeometricos.runtimeconfig.dev.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\bin\Debug\netcoreapp3.1\MenuCalculosGeometricos.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\bin\Debug\netcoreapp3.1\MenuCalculosGeometricos.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\obj\Debug\netcoreapp3.1\MenuCalculosGeometricos.csproj.AssemblyReference.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\obj\Debug\netcoreapp3.1\MenuCalculosGeometricos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\obj\Debug\netcoreapp3.1\MenuCalculosGeometricos.AssemblyInfoInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\obj\Debug\netcoreapp3.1\MenuCalculosGeometricos.AssemblyInfo.cs
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\obj\Debug\netcoreapp3.1\MenuCalculosGeometricos.csproj.CoreCompileInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\obj\Debug\netcoreapp3.1\MenuCalculosGeometricos.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\obj\Debug\netcoreapp3.1\MenuCalculosGeometricos.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\MenuCalculosGeometricos\obj\Debug\netcoreapp3.1\MenuCalculosGeometricos.genruntimeconfig.cache

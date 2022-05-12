@@ -1,0 +1,14 @@
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\bin\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.exe
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\bin\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.deps.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\bin\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.runtimeconfig.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\bin\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.runtimeconfig.dev.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\bin\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\bin\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\obj\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.csproj.AssemblyReference.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\obj\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\obj\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.AssemblyInfoInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\obj\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.AssemblyInfo.cs
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\obj\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\obj\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\obj\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\T6FigurasGeometricasConMetodos\obj\Debug\netcoreapp3.1\T6FigurasGeometricasConMetodos.genruntimeconfig.cache

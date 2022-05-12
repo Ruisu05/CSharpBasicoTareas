@@ -1,0 +1,14 @@
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\bin\Debug\netcoreapp3.1\CalculadoraConIf.exe
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\bin\Debug\netcoreapp3.1\CalculadoraConIf.deps.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\bin\Debug\netcoreapp3.1\CalculadoraConIf.runtimeconfig.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\bin\Debug\netcoreapp3.1\CalculadoraConIf.runtimeconfig.dev.json
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\bin\Debug\netcoreapp3.1\CalculadoraConIf.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\bin\Debug\netcoreapp3.1\CalculadoraConIf.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\obj\Debug\netcoreapp3.1\CalculadoraConIf.csproj.AssemblyReference.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\obj\Debug\netcoreapp3.1\CalculadoraConIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\obj\Debug\netcoreapp3.1\CalculadoraConIf.AssemblyInfoInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\obj\Debug\netcoreapp3.1\CalculadoraConIf.AssemblyInfo.cs
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\obj\Debug\netcoreapp3.1\CalculadoraConIf.csproj.CoreCompileInputs.cache
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\obj\Debug\netcoreapp3.1\CalculadoraConIf.dll
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\obj\Debug\netcoreapp3.1\CalculadoraConIf.pdb
+C:\Users\Ruisu\source\repos\CSharpBasicoTareas\CalculadoraConIf\obj\Debug\netcoreapp3.1\CalculadoraConIf.genruntimeconfig.cache
